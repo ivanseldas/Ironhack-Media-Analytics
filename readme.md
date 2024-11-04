@@ -1,40 +1,35 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+# Project: Analytical Analysis for IronHack Media (Project 2)
 
-# Desafío Empresarial: Análisis Analítico para IronHack Media (Proyecto 2)
+**Objective:** Analyze KPIs from a startup acquired by IronHack to uncover insights that can guide strategic decisions.
+![business-office-computer-flatlay](https://github.com/user-attachments/assets/a4b397af-fcc5-4087-8c30-0c3f1baa26e7)
 
-Explora el conjunto de datos que contiene indicadores clave de rendimiento empresarial (KPIs) de los primeros años de una startup adquirida por IronHack.
 
-Por favor, completa las siguientes tareas:
+## Key Analysis Areas
 
-## Análisis Descriptivo Completo
+### Client Analysis
+- **Goal:** Understand individual client performance.
+- **Focus:** Identify patterns, trends, and anomalies in client KPIs.
+- **Output:** Visualizations to highlight high-value clients and areas needing improvement.
 
-Realiza un análisis descriptivo integral enfocándote en los siguientes aspectos:
+### Country Analysis
+- **Goal:** Assess business performance across countries.
+- **Focus:** Compare KPIs by country to reveal growth opportunities.
+- **Output:** Country-specific insights via visualizations, highlighting key regions.
 
-### Análisis por Cliente
+### Business Line Analysis
+- **Goal:** Evaluate profitability across business lines.
+- **Focus:** Identify the most profitable lines and areas for improvement.
+- **Output:** Visual insights on business line performance.
 
-- Explora y analiza los datos para entender el desempeño de la startup con respecto a clientes individuales.
-- Identifica tendencias, patrones y anomalías en los KPIs específicos de los clientes.
-- Visualiza las principales conclusiones relacionadas con el rendimiento del cliente.
+### Additional Analysis
+- **Goal:** Gain deeper insights with correlations or time-based trends.
+- **Focus:** Uncover patterns for enhanced strategic understanding.
 
-### Análisis por País
+## Strategic Recommendations
 
-- Lleva a cabo un análisis del desempeño del negocio de la startup en diferentes países.
-- Compara y contrasta los KPIs a través de varios países.
-- Crea visualizaciones para presentar los hallazgos específicos de cada país.
+Based on the analysis, I’ll provide three key recommendations to:
+1. Improve client and regional performance.
+2. Enhance efficiency across business lines.
+3. Boost profitability in underperforming areas.
 
-### Análisis por Línea de Negocio
-
-- Evalúa el desempeño de las diferentes líneas de negocio de la startup.
-- Determina cuáles líneas de negocio son más rentables y cuáles podrían necesitar mejoras.
-- Utiliza visualizaciones para ilustrar los resultados del análisis.
-
-### Análisis Adicional Relevante
-
-- Realiza cualquier análisis adicional que creas relevante para obtener una comprensión más profunda de los datos del negocio de la startup.
-- Explora correlaciones, tendencias a lo largo del tiempo o cualquier otro aspecto que pueda proporcionar percepciones valiosas.
-
-## Recomendaciones Estratégicas
-
-Basado en tu análisis de datos, proporciona al menos tres recomendaciones estratégicas para IronHack Media. Estas recomendaciones deben derivarse de tus percepciones basadas en datos y apuntar a mejorar el rendimiento del negocio, la eficiencia o la rentabilidad. Todo deberá ser realizado con PowerBi.
-
-Evaluaremos no solo tu capacidad para realizar un análisis exhaustivo, sino también tu habilidad para presentar y comunicar los hallazgos. ¡Buena suerte!
+All work will be done in PowerBI, delivering a concise and impactful presentation with dynamic visuals and insights.
