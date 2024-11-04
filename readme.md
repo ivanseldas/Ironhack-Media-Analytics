@@ -1,4 +1,4 @@
-# Project: Analytical Analysis for IronHack Media (Project 2)
+# Ironhack Media Analytics
 
 **Objective:** Analyze KPIs from a startup acquired by IronHack to uncover insights that can guide strategic decisions.
 ![business-office-computer-flatlay](https://github.com/user-attachments/assets/a4b397af-fcc5-4087-8c30-0c3f1baa26e7)
